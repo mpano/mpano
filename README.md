@@ -40,7 +40,6 @@ I am mpano, a Backend Software Engineer with a passion for problem-solving and u
 </div>
 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpano&layout=compact)](https://github.com/mpano/github-readme-stats)]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpano&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mpano" /></p>
 
@@ -48,5 +47,9 @@ I am mpano, a Backend Software Engineer with a passion for problem-solving and u
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpano&&theme=tokyonight" alt="mpano" /></p>
 
-## LinkedIn
-<a href="https://www.linkedin.com/in/mpano-akim-90b0561b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mpano/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mpano-akim-90b0561b8/" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mpanoakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mpanoakim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mpano-akim-90b0561b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mpano-akim-90b0561b8" height="30" width="40" /></a>
+<a href="https://instagram.com/mpanoakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mpanoakim" height="30" width="40" /></a>
+</p>
