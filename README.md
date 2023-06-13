@@ -40,13 +40,13 @@ I am mpano, a Backend Software Engineer with a passion for problem-solving and u
 </div>
 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpano&layout=compact)](https://github.com/mpano/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpano&layout=compact)](https://github.com/mpano/github-readme-stats)]
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpano&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mpano" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpano&show_icons=true&locale=en&theme=tokyonight" alt="mpano" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpano&&theme=tokyonight" alt="mpano" /></p>
 
 ## LinkedIn
 <a href="https://www.linkedin.com/in/mpano-akim-90b0561b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mpano/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mpano-akim-90b0561b8/" height="30" width="40" /></a>
