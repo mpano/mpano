@@ -1,21 +1,11 @@
 ### Hi there 👋
 
-<!--
-**mpano/mpano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Mpano Akim 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Leon Low 👋
-I am Leon Low, a Backend Software Engineer with a passion for problem-solving and utilizing programming languages to build robust and efficient applications. I place a strong emphasis on user experience and adhere to project specifications. I am a fast learner and have a proven ability to quickly pick up new skills and technologies. I am continuously driven to improve my skills and stay current in the industry. I thrive in challenging environments and have a strong attention to detail, ensuring that the final product is of the highest quality. My strong work ethic and motivation make me a reliable team member.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mpano&label=Profile%20views&color=0e75b6&style=flat" alt="mpano" /> </p>
+
+I am mpano, a Backend Software Engineer with a passion for problem-solving and utilizing programming languages to build robust and efficient applications. I place a strong emphasis on user experience and adhere to project specifications. I am a fast learner and have a proven ability to quickly pick up new skills and technologies. I am continuously driven to improve my skills and stay current in the industry. I thrive in challenging environments and have a strong attention to detail, ensuring that the final product is of the highest quality. My strong work ethic and motivation make me a reliable team member.
 
 <div align="center">
 	<i>"The beauty of learning is that no one can take it away from you."</i> 
@@ -23,10 +13,7 @@ I am Leon Low, a Backend Software Engineer with a passion for problem-solving an
 </div>
 
 <hr>
-<div align = "center">
-  <a href="https://github.com/LeonLow97-Sandbox">LeonLow97 Sandbox</a>
-  <p>For storing online tutorials and courses!<br><i>Actively self-learning and growing!</i></p>
-</div>
+
 
 <hr>
 
@@ -53,7 +40,13 @@ I am Leon Low, a Backend Software Engineer with a passion for problem-solving an
 </div>
 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonLow97&layout=compact)](https://github.com/LeonLow97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpano&layout=compact)](https://github.com/mpano/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
 
 ## LinkedIn
-<a href="https://www.linkedin.com/in/lowjiewei/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lowjiewei/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mpano-akim-90b0561b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mpano/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mpano-akim-90b0561b8/" height="30" width="40" /></a>
