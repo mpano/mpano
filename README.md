@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpano&label=Profile%20views&color=0e75b6&style=flat" alt="mpano" /> </p>
 
-I am mpano, a Backend Software Engineer with a passion for problem-solving and utilizing programming languages to build robust and efficient applications. I place a strong emphasis on user experience and adhere to project specifications. I am a fast learner and have a proven ability to quickly pick up new skills and technologies. I am continuously driven to improve my skills and stay current in the industry. I thrive in challenging environments and have a strong attention to detail, ensuring that the final product is of the highest quality. My strong work ethic and motivation make me a reliable team member.
+I am mpano, a Backend Software Engineer with a passion for problem-solving and utilizing programming languages to build robust and efficient applications. I place a strong emphasis on user experience and adhere to project specifications. I am a fast learner and have a proven ability to quickly pick up new skills and technologies. I am continuously driven to improve my skills and stay current in the industry. I thrive in challenging environments and have strong attention to detail, ensuring that the final product is of the highest quality. My strong work ethic and motivation make me a reliable team member.
 
 <div align="center">
 	<i>"The beauty of learning is that no one can take it away from you."</i> 
