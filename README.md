@@ -6,7 +6,7 @@ I am mpano, a Backend Software Engineer with a passion for problem-solving and u
 
 <div align="center">
 	<i>"The beauty of learning is that no one can take it away from you."</i> 
-	<br><i>"The goal is to be better than who I was yesterday."</i>
+	<br><i>"The goal is to be better than you were yesterday."</i>
 </div>
 
 <hr>
