@@ -35,7 +35,7 @@ I am mpano, a Backend Software Engineer with a passion for problem-solving and u
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
 </div>
 
-<br>
+<br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpano&hide=html,scss,css&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mpano" /></p>
 
