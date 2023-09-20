@@ -38,7 +38,7 @@ I am mpano, a Backend Software Engineer with a passion for problem-solving and u
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpano&hide=html,scss,javascript,css&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mpano" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patriicke&show_icons=true&locale=en&theme=tokyonight" alt="patriicke" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpano&show_icons=true&locale=en&theme=tokyonight" alt="mpano" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpano&&theme=tokyonight" alt="mpano" /></p>
 
