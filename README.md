@@ -40,7 +40,7 @@ I am mpano, a Backend Software Engineer with a passion for problem-solving and u
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpano&show_icons=true&locale=en&theme=tokyonight" alt="mpano" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpano&&theme=tokyonight" alt="mpano" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patriicke&&theme=tokyonight" alt="mpano" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
